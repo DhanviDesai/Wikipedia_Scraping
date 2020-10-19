@@ -1,0 +1,14 @@
+__pycache__
+Aligned_Files
+Tokenized_Files-Molecules
+Aligned_Files2
+Deduped_Aligned_Files
+Feasibility_Files
+Scraped_Files-Molecules
+Scraped_Files
+.ipynb_checkpoints
+feasibility_check.ipynb
+Next_Links.csv
+Links_to_UUID.csv
+Total-en-Sentences.csv
+Total-hi-Sentences.csv
